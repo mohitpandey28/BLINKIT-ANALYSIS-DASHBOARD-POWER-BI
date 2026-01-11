@@ -16,27 +16,27 @@ The dashboard uses various visualization techniques for a clear and actionable a
 
 ### Donut Charts
 
-#### Fat Content: Distribution between Low Fat and Regular items.
-#### Outlet Size: Representation of different outlet sizes.
+Fat Content: Distribution between Low Fat and Regular items.
+Outlet Size: Representation of different outlet sizes.
 
 ### Clustered Bar Charts
 
-#### Item Types: Distribution of sales across different item types.
-#### Fat by Outlet: Analysis of fat content distribution by outlet type.
+Item Types: Distribution of sales across different item types.
+Fat by Outlet: Analysis of fat content distribution by outlet type.
 
 ### Funnel Chart
 
-#### Outlet Location Type: Analysis of outlet performance by location type (Tier 1, Tier 2, Tier 3 cities).
+Outlet Location Type: Analysis of outlet performance by location type (Tier 1, Tier 2, Tier 3 cities).
 
 ### Line Chart
 
-#### Outlet Establishment Year by Sales: Trends in sales performance based on the year of establishment.
+Outlet Establishment Year by Sales: Trends in sales performance based on the year of establishment.
 
-#### Filters
+### Filters
 
 The dashboard includes filters to refine the data and facilitate targeted analysis, allowing for a more customized insight into specific parameters.
 
-#### Technologies Used
+### Technologies Used
 
 Power BI for data visualization and dashboard creation.
 SQL for data extraction and transformation.
